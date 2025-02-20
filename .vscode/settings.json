@@ -1,0 +1,5 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "vue.complete.casing.props": "kebab",
+  "vue.complete.casing.tags": "kebab"
+}
